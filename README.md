@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=220&section=header&text=Hi%20There%2C%20I'm%20Domince%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20things%20one%20commit%20at%20a%20time&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=220&section=header&text=Hi%20There%2C%20I%27m%20Domince%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20things%20one%20commit%20at%20a%20time&descAlignY=55&descSize=16" width="100%"/>
 
 <a href="https://dominceaseberos.tech">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&width=600&lines=Software+Developer;Flutter+%7C+Dart+%7C+TypeScript+Enthusiast;Always+learning+something+new;Welcome+to+my+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&width=600&lines=Software+Developer;Flutter+%7C+Dart+%7C+TypeScript+Enthusiast;Motion+Graphics+Designer;Always+learning+something+new;Welcome+to+my+profile!" alt="Typing SVG" />
 </a>
 
 </div>
@@ -15,6 +15,7 @@
 [![Website](https://img.shields.io/badge/Website-dominceaseberos.tech-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dominceaseberos.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dominceaseberos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dominceaseberos/)
 [![Facebook](https://img.shields.io/badge/Facebook-domince.aseberos-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/domince.aseberos)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@dominceaseberos)
 
 </div>
 
@@ -24,6 +25,7 @@
 
 - 🔭 I'm currently working on **CATSY** and a few Flutter side projects
 - 🌱 I'm currently leveling up my **TypeScript** and **Flutter/Dart** skills
+- 🎬 Motion graphics enthusiast — blending code with visual storytelling
 - 👯 I'm looking to collaborate on open-source **web & mobile apps**
 - 🤔 I'm looking for help with **CI/CD pipelines** and **UI animation**
 - 💬 Ask me about **Flutter, Dart, TypeScript, or web dev**
@@ -49,22 +51,37 @@
 
 ---
 
+### 🎬 Motion & Animation Tools
+
+<div align="center">
+
+![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Rive](https://img.shields.io/badge/Rive-1D1D1D?style=for-the-badge&logo=rive&logoColor=white)
+![Lottie](https://img.shields.io/badge/Lottie-00DDB3?style=for-the-badge&logo=lottie&logoColor=white)
+
+</div>
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DominceAseberos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=DominceAseberos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&custom_title=Domince%27s%20Stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DominceAseberos&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DominceAseberos&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DominceAseberos&theme=tokyonight&hide_border=true&fire=00C9A7&ring=6C63FF&currStreakLabel=6C63FF" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=DominceAseberos&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=DominceAseberos&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15" />
 
 </div>
 
@@ -74,7 +91,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DominceAseberos&theme=tokyo-night&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DominceAseberos&theme=tokyo-night&hide_border=true&radius=10&area=true&custom_title=Contribution%20Graph&point=00C9A7&line=6C63FF" width="100%"/>
 
 </div>
 
@@ -84,11 +101,40 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/DominceAseberos/DominceAseberos/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DominceAseberos/DominceAseberos/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DominceAseberos/DominceAseberos/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/DominceAseberos/DominceAseberos/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
 
 </div>
 
-> ℹ️ The snake animation needs a one-time GitHub Action setup — see the note below the README.
+> ⚡ **Auto-generate the snake** — Create `.github/workflows/snake.yml` in your profile repo:
+>
+> ```yaml
+> name: Generate Snake
+> on:
+>   schedule:
+>     - cron: "0 0 * * *"
+>   workflow_dispatch:
+> jobs:
+>   build:
+>     runs-on: ubuntu-latest
+>     steps:
+>       - uses: actions/checkout@v4
+>       - uses: Platane/snk@v3
+>         with:
+>           github_user_name: ${{ github.repository_owner }}
+>           outputs: |
+>             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+>             dist/github-contribution-grid-snake.svg?palette=github-light
+>       - uses: crazy-max/ghaction-github-pages@v4
+>         with:
+>           target_branch: output
+>           build_dir: dist
+>         env:
+>           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+> ```
 
 ---
 
