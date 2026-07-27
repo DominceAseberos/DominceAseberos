@@ -70,18 +70,28 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DominceAseberos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&custom_title=Domince%27s%20Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DominceAseberos&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://fancy-readme-stats.vercel.app/api?username=DominceAseberos&theme=city&show_icons=true&hide_border=true&include_all_commits=true&dark_bg=8" alt="GitHub Stats" />
+<img height="165" src="https://edge-readme-stats.dancodes.online/langs?username=DominceAseberos&theme=tokyonight&size=lg&icons=true" alt="Top Languages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DominceAseberos&theme=tokyonight&hide_border=true&fire=00C9A7&ring=6C63FF&currStreakLabel=6C63FF" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DominceAseberos&theme=tokyonight&hide_border=true&fire=00C9A7&ring=6C63FF&currStreakLabel=6C63FF" alt="Streak Stats" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=DominceAseberos&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=DominceAseberos&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15" alt="Trophies" />
+
+</div>
+
+---
+
+### 🎞️ Animated Contribution Visualization
+
+<div align="center">
+
+<img src="https://gh-motion-card.vercel.app/api/github-motion?username=DominceAseberos&theme=tokyonight&animation=wave&border_width=0&show_legend=false" width="100%" alt="Animated Contribution Graph" />
 
 </div>
 
@@ -91,7 +101,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DominceAseberos&theme=tokyo-night&hide_border=true&radius=10&area=true&custom_title=Contribution%20Graph&point=00C9A7&line=6C63FF" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DominceAseberos&theme=tokyo-night&hide_border=true&radius=10&area=true&custom_title=Contribution%20Graph&point=00C9A7&line=6C63FF" width="100%" alt="Activity Graph" />
 
 </div>
 
@@ -104,7 +114,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DominceAseberos/DominceAseberos/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DominceAseberos/DominceAseberos/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/DominceAseberos/DominceAseberos/output/github-contribution-grid-snake.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/DominceAseberos/DominceAseberos/output/github-contribution-grid-snake.svg" width="100%" alt="Snake" />
 </picture>
 
 </div>
