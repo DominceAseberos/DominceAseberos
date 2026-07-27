@@ -75,23 +75,13 @@
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DominceAseberos&theme=tokyonight&hide_border=true&fire=00C9A7&ring=6C63FF&currStreakLabel=6C63FF" alt="Streak Stats" />
+<img src="https://github-stats-nine-lemon.vercel.app/api/streak?username=DominceAseberos&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=DominceAseberos&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15" alt="Trophies" />
-
-</div>
-
----
-
-### 🎞️ Animated Contribution Visualization
-
-<div align="center">
-
-<img src="https://gh-motion-card.vercel.app/api/github-motion?username=DominceAseberos&theme=tokyonight&animation=wave&border_width=0&show_legend=false" width="100%" alt="Animated Contribution Graph" />
+<img src="https://icon.mzrdev.com/trophy?username=DominceAseberos&theme=tokyonight&column=6" alt="Trophies" />
 
 </div>
 
@@ -111,40 +101,11 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DominceAseberos/DominceAseberos/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DominceAseberos/DominceAseberos/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/DominceAseberos/DominceAseberos/output/github-contribution-grid-snake.svg" width="100%" alt="Snake" />
-</picture>
+<img src="https://gh-motion-card.vercel.app/api/github-motion?username=DominceAseberos&theme=tokyonight&animation=snake&border_width=0&hide_total=true&hide_streaks=true&hide_rank=true&show_legend=false" width="100%" alt="Snake Animation" />
 
 </div>
 
-> ⚡ **Auto-generate the snake** — Create `.github/workflows/snake.yml` in your profile repo:
->
-> ```yaml
-> name: Generate Snake
-> on:
->   schedule:
->     - cron: "0 0 * * *"
->   workflow_dispatch:
-> jobs:
->   build:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: actions/checkout@v4
->       - uses: Platane/snk@v3
->         with:
->           github_user_name: ${{ github.repository_owner }}
->           outputs: |
->             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
->             dist/github-contribution-grid-snake.svg?palette=github-light
->       - uses: crazy-max/ghaction-github-pages@v4
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
+> No GitHub Action needed — this renders live from your contribution data.
 
 ---
 
