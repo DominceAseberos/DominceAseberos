@@ -1,5 +1,5 @@
 <div align="center">
-![Uploading starting_of_the_video_should_b.gif…]()
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=220&section=header&text=Hi%20There%2C%20I%27m%20Domince%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20things%20one%20commit%20at%20a%20time&descAlignY=55&descSize=16" width="100%"/>
 
