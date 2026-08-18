@@ -19,18 +19,18 @@
 
 ---
 
-### 🌸 About Me
+### <img src="icons/user.svg" width="24" style="vertical-align: -4px;" /> About Me
 
-- 🔭 Working on **CATSY** & full-stack web/mobile applications
-- 🌱 Building with **Next.js**, **Node.js**, **Flutter / Dart**, & **TypeScript**
-- ✨ Crafting smooth, responsive UI with **GSAP**, **Framer Motion**, and modern component systems
-- 💬 Ask me about **Full-Stack Web, Flutter, UI Engineering, or Clean Code**
-- ⚡ Fun fact: *I ship clean code and smooth 60fps animations* ✨
-- ☕ Fueled by curiosity & great coffee
+- <img src="icons/rocket.svg" width="18" style="vertical-align: -3px;" /> Working on **CATSY** & full-stack web/mobile applications
+- <img src="icons/code.svg" width="18" style="vertical-align: -3px;" /> Building with **Next.js**, **Node.js**, **Flutter / Dart**, & **TypeScript**
+- <img src="icons/sparkles.svg" width="18" style="vertical-align: -3px;" /> Crafting smooth, responsive UI with **GSAP**, **Framer Motion**, and modern component systems
+- <img src="icons/chat.svg" width="18" style="vertical-align: -3px;" /> Ask me about **Full-Stack Web, Flutter, UI Engineering, or Clean Code**
+- <img src="icons/bolt.svg" width="18" style="vertical-align: -3px;" /> Fun fact: *I ship clean code and smooth 60fps animations*
+- <img src="icons/coffee.svg" width="18" style="vertical-align: -3px;" /> Fueled by curiosity & great coffee
 
 ---
 
-### 💻 Frontend & Mobile
+### <img src="icons/layers.svg" width="24" style="vertical-align: -4px;" /> Frontend & Mobile
 
 <div align="center">
 
@@ -47,7 +47,7 @@
 
 ---
 
-### ⚙️ Backend & Environment
+### <img src="icons/server.svg" width="24" style="vertical-align: -4px;" /> Backend & Environment
 
 <div align="center">
 
@@ -58,7 +58,7 @@
 
 ---
 
-### 🎨 Styling & Component Libraries
+### <img src="icons/palette.svg" width="24" style="vertical-align: -4px;" /> Styling & Component Libraries
 
 <div align="center">
 
@@ -72,7 +72,7 @@
 
 ---
 
-### 🪄 UI Animation & Motion
+### <img src="icons/motion.svg" width="24" style="vertical-align: -4px;" /> UI Animation & Motion
 
 <div align="center">
 
@@ -86,7 +86,7 @@
 
 ---
 
-### 🧰 Tools & Code Quality
+### <img src="icons/tools.svg" width="24" style="vertical-align: -4px;" /> Tools & Code Quality
 
 <div align="center">
 
@@ -103,7 +103,7 @@
 
 <div align="center">
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=DominceAseberos&color=6C63FF&style=flat-square&label=VISITORS+✨)
+  ![Profile Views](https://komarev.com/ghpvc/?username=DominceAseberos&color=6C63FF&style=flat-square&label=VISITORS)
 
   <br/>
 
