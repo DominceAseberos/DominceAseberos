@@ -2,10 +2,10 @@
 
   <img src="GIF_README.gif" width="480" alt="Header Animation" />
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=180&section=header&text=Hi%20there,%20I'm%20Domince%20✨&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Crafting%20clean%20code%20%26%20delightful%20experiences%20🌸&descAlignY=60&descSize=15" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=200&section=header&text=Hi%20There%2C%20I%27m%20Domince%20%E2%9C%A8&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Crafting%20clean%20code%20%26%20delightful%20experiences%20%F0%9F%8C%B8&descAlignY=58&descSize=16" width="100%"/>
 
   <a href="https://dominceaseberos.tech">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&width=550&lines=Flutter+%26+Mobile+App+Developer;TypeScript+%26+Creative+Web+Dev;UI+Animations+(GSAP+%7C+Framer+Motion);Always+learning+%26+building+cool+stuff+✨" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&width=600&lines=Flutter+%7C+Dart+Developer;TypeScript+%7C+Creative+Web+Dev;UI+Animations+%7C+GSAP+%2B+Framer+Motion;Building+clean+and+smooth+experiences!;Welcome+to+my+profile!" alt="Typing SVG" />
   </a>
 
   <p align="center">
